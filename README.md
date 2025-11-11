@@ -38,6 +38,10 @@
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="45" height="45"/><br>
       <span style="color:#f0f6fc;">CSS3</span>
     </td>
+      <td align="center" width="120" style="border:1px solid #30363d; padding:10px;">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45" height="45"/><br>
+        <span style="color:#f0f6fc;">JavaScript</span>
+    </td>
   </tr>
 </table>
 
