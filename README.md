@@ -116,6 +116,23 @@
   </tr>
 </table>
 
+<!-- Cloud & DevOps -->
+<h3 style="color:#58a6ff;">Cloud & DevOps</h3>
+<table style="border-collapse:collapse;">
+  <tr>
+    <td align="center" width="120" style="border:1px solid #30363d; padding:10px;">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg" width="45" height="45"/><br>
+      <span style="color:#f0f6fc;">AWS</span>
+    </td>
+    <td align="center" width="120" style="border:1px solid #30363d; padding:10px;">
+      <img src="https://cdn-icons-png.flaticon.com/512/4248/4248443.png" width="45" height="45"/><br>
+      <span style="color:#f0f6fc;">Cloud Practitioner Essentials</span>
+    </td>
+  </tr>
+</table>
+
+
+
 <!-- IDEs -->
 <h3 style="color:#58a6ff;">IDEs</h3>
 <table style="border-collapse:collapse;">
